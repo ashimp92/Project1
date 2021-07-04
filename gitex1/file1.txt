@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is file1- modified for hotfix
+=======
+modified- this is file1
+
+>>>>>>> future_branch1
